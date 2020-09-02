@@ -3,20 +3,14 @@
 layout: col-sidebar
 title: OWASP Cyber Scavenger Hunt
 tags: example-tag
-level: 1
-type: 
-pitch: A very brief, one-line description of your project
+level: 2
+type: other
+pitch: A simple scavenger hunt to learn about pentesting a website or web application.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+[Cyber Scavenger Hunt](https://www.cyberscavengerhunt.com) is an interactive website that challenges you to think like a web application penetration tester.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+No tools are required to find the easter eggs in the scavenger hunt! Just your web browser of choice and the built-in developer tools.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+The project code is 100% open source and available on GitHub. If you have any suggestions, questions, or are interested in helping support the project please let us know!
