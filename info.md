@@ -1,17 +1,10 @@
 ### Cyber Scavenger Hunt Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
-
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Incubator Project](https://owasp.org/projects/#owasp-project-inventory-188)
+* Type of Project: Code
+* Version 0.1.0
+* Builder
+* Breaker
 
 ### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
+* [GitHub](https://github.com/arthurakay/cyberscavengerhunt)
 
