@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Cyber Scavenger Hunt
 tags: example-tag
 level: 2
-type: other
+type: code
 pitch: A simple scavenger hunt to learn about pentesting a website or web application.
 
 ---
