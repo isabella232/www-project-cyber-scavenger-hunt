@@ -8,4 +8,4 @@ tags: example-tag
 
 ## Example
 
-<img src="/assets/images/cyberscavengerhunt.png" />
+<img src="assets/images/cyberscavengerhunt.png" />
